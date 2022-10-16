@@ -35,6 +35,13 @@ def fibRec(x):
     else:
         return fibRec(x - 1) + fibRec(x - 2) + fibRec(x - 3)
 
+##Negyedik feladat: Két tag szorzata
+
+def ket_tag_szorzata()
+{
+
+}
+
 
 ##Ötödik feladat: Előző kettő összege
 
